@@ -49,6 +49,6 @@ Windows                  3 hrs 48 mins       ████░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Mist3s/Mist3s/main/assets/bar_graph.png)
 
 
- Last Updated on 16/07/2024 15:09:30 UTC
+ Last Updated on 16/07/2024 18:38:57 UTC
 <!--END_SECTION:waka-->
 
