@@ -1,7 +1,7 @@
 ## 👋 Hi, I'm Andrey
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-714%20hrs%2012%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-714%20hrs%2033%20mins-blue)
 
 **I'm an Early 🐤** 
 
@@ -50,6 +50,6 @@ Windows                  10 mins             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Mist3s/Mist3s/main/assets/bar_graph.png)
 
 
- Last Updated on 30/01/2025 18:41:15 UTC
+ Last Updated on 31/01/2025 18:40:25 UTC
 <!--END_SECTION:waka-->
 
