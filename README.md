@@ -1,6 +1,8 @@
 ## 👋 Hi, I'm Andrey
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C265%20hrs%201%20min-blue?style=flat)
+
 **I'm an Early 🐤** 
 
 ```text
@@ -47,6 +49,6 @@ Linux                    16 hrs 17 mins      ███████████�
 ![Lines of Code chart](https://raw.githubusercontent.com/Mist3s/Mist3s/main/assets/bar_graph.png)
 
 
- Last Updated on 07/06/2026 19:56:56 UTC
+ Last Updated on 08/06/2026 20:41:32 UTC
 <!--END_SECTION:waka-->
 
