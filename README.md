@@ -28,18 +28,18 @@ Sunday                   214 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Kaliningrad
 
 💬 Programming Languages: 
-Python                   8 hrs 37 mins       ██████████░░░░░░░░░░░░░░░   38.01 % 
-Markdown                 7 hrs 50 mins       █████████░░░░░░░░░░░░░░░░   34.56 % 
-Other                    1 hr 30 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
-Dart                     1 hr 21 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.96 % 
-Text                     1 hr 15 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.56 % 
+Python                   8 hrs 37 mins       ██████████░░░░░░░░░░░░░░░   41.16 % 
+Markdown                 7 hrs               ████████░░░░░░░░░░░░░░░░░   33.44 % 
+Other                    1 hr 28 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.03 % 
+Text                     1 hr 6 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.28 % 
+HTML                     39 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.17 % 
 
 🔥 Editors: 
-Claude Code              11 hrs 33 mins      █████████████░░░░░░░░░░░░   50.87 % 
-VS Code                  11 hrs 9 mins       ████████████░░░░░░░░░░░░░   49.13 % 
+Claude Code              12 hrs 14 mins      ███████████████░░░░░░░░░░   58.40 % 
+VS Code                  8 hrs 43 mins       ██████████░░░░░░░░░░░░░░░   41.60 % 
 
 💻 Operating System: 
-Linux                    22 hrs 42 mins      █████████████████████████   100.00 % 
+Linux                    20 hrs 58 mins      █████████████████████████   100.00 % 
 ```
 
 **Timeline**
@@ -47,6 +47,6 @@ Linux                    22 hrs 42 mins      ███████████�
 ![Lines of Code chart](https://raw.githubusercontent.com/Mist3s/Mist3s/main/assets/bar_graph.png)
 
 
- Last Updated on 23/07/2026 19:57:26 UTC
+ Last Updated on 24/07/2026 19:57:43 UTC
 <!--END_SECTION:waka-->
 
