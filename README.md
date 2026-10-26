@@ -1,9 +1,9 @@
 ## 👋 Hi, I'm Andrey
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C808%20hrs%209%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C811%20hrs%2042%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-692%20hrs%2054%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-696%20hrs%2027%20mins-blue?style=flat)
 
 **I'm an Early 🐤** 
 
@@ -32,42 +32,42 @@ Sunday                   653 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Europe/Kaliningrad
 
 💬 Programming Languages: 
-Markdown                 18 hrs 10 mins      ████████░░░░░░░░░░░░░░░░░   32.45 % 
-Python                   13 hrs 36 mins      ██████░░░░░░░░░░░░░░░░░░░   24.31 % 
-Bash                     13 hrs 11 mins      ██████░░░░░░░░░░░░░░░░░░░   23.56 % 
-Other                    4 hrs 29 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.02 % 
-Text                     1 hr 58 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.54 % 
+Markdown                 18 hrs 10 mins      █████████░░░░░░░░░░░░░░░░   35.82 % 
+Bash                     11 hrs 37 mins      ██████░░░░░░░░░░░░░░░░░░░   22.89 % 
+Python                   11 hrs 27 mins      ██████░░░░░░░░░░░░░░░░░░░   22.57 % 
+Other                    3 hrs 52 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.62 % 
+Text                     2 hrs 16 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.48 % 
 
 🔥 Editors: 
-Claude Code              51 hrs 35 mins      ███████████████████████░░   92.13 % 
-VS Code                  4 hrs 24 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.87 % 
+Claude Code              46 hrs 25 mins      ███████████████████████░░   91.47 % 
+VS Code                  4 hrs 19 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.53 % 
 
 💻 Operating System: 
-Linux                    55 hrs 59 mins      █████████████████████████   100.00 % 
+Linux                    50 hrs 45 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 54 hrs 21 mins (97.07%)
+⏱ AI Coding Time: 49 hrs 7 mins (96.77%)
 
-✍️ 29,890 lines written by AI, 279 lines written by hand (99.08% AI-written)
+✍️ 28,564 lines written by AI, 279 lines written by hand (99.03% AI-written)
 
-🔤 53,515,434 Input Tokens, 17,509,614 Output Tokens
+🔤 43,432,979 Input Tokens, 14,245,328 Output Tokens
 
-💵 $1026.36 Estimated AI Cost This Week
+💵 $837.58 Estimated AI Cost This Week
 
-🧠 20 AI Sessions, 253 AI Prompts
+🧠 18 AI Sessions, 229 AI Prompts
 
-Opus                     30,139 lines        █████████████████████████   100.00 % 
+Opus                     28,999 lines        █████████████████████████   100.00 % 
 Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.08% of written lines came from AI
-📚 Verbose Prompter — average 8,400 characters per prompt
+🤖 AI-Driven — 99.03% of written lines came from AI
+📚 Verbose Prompter — average 8,625 characters per prompt
 🔁 Iterative Prompter — average 13 prompts per session
-🚀 High AI Trust — 2.07% of changed lines were hand-edited
+🚀 High AI Trust — 2.16% of changed lines were hand-edited
 ```
 
 **Timeline**
@@ -75,6 +75,6 @@ Claude-Code              0 lines             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Mist3s/Mist3s/main/assets/bar_graph.png)
 
 
- Last Updated on 25/10/2026 21:07:22 UTC
+ Last Updated on 26/10/2026 22:54:38 UTC
 <!--END_SECTION:waka-->
 
